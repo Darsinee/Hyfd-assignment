@@ -10,7 +10,7 @@ This repository contains my implementation and evaluation of the HyFD algorithm 
 
 ## Environment
 
-The code has been written and run in Google Colab rather than VS Code because the Desbordante package used in this project does not provide pre-built Windows installers. The script requires Python, pandas, NumPy, and `desbordante==2.5.0`, and runs on Linux, macOS, or Google Colab.
+The code has been written and run in Google Colab rather than VS Code because the Desbordante package used in this project does not provide pre-built Windows installers. The script requires Python, pandas, NumPy, and desbordante version 2.5.0, and runs on Linux, macOS, or Google Colab.
 
 ## Running the notebook
 
